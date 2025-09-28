@@ -91,7 +91,7 @@ cd Mind Pulse
 ---
 
 ## 🎥 Live Demo
-👉 Click here to view demo: 
+👉 Click here to view demo: https://drive.google.com/file/d/1GpbbGz6J4KhomckOgwwk7RzH1Q_Gqx59/view?usp=sharing
 
 ---
 👩‍💻 Author:
